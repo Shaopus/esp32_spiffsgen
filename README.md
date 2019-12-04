@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/shaopus/07ef16c3-e1ad-44cb-8661-31783bea604b/9bb5a54c-afbc-4f81-8cad-ca2714e54ace/_apis/work/boardbadge/841fffac-dcd6-40fd-87ca-83cebec3ec14)](https://dev.azure.com/shaopus/07ef16c3-e1ad-44cb-8661-31783bea604b/_boards/board/t/9bb5a54c-afbc-4f81-8cad-ca2714e54ace/Microsoft.RequirementCategory)
 # SPIFFS文件系统的使用步骤
 
 ## 概述
